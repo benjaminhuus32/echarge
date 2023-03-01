@@ -1,5 +1,0 @@
-class EchargeMap {
-
-    constructor() {}
-
-}
